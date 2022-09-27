@@ -1,2 +1,2 @@
-# com.training.amdocs.assignment1
+# com.training.amdocs
  Assignment1
